@@ -1,6 +1,4 @@
-***************************************************
-*Reddit Photoshop Battles Image Provenance Datasets*
-***************************************************
+# Reddit Photoshop Battles Image Provenance Datasets #
 
 ![How a provenance case is generated](figure1.png?raw=true "Figure1")
 DESCRIPTION:
