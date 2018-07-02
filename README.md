@@ -2,6 +2,8 @@
 *Reddit Photoshop Battles Image Provenance Datasets*
 ***************************************************
 
+[[https://github.com/joelb92/Reddit_Provenance_Datasets/blob/master/figure1.png|alt=How a provenance case is generated]]
+
 DESCRIPTION:
 ************
 Reddit photoshop battles (https://www.reddit.com/r/photoshopbattles/) is an online community that holds competitions to see who can generate the most amusing, relevant, or creative edited versions of original photos using tools such as Photoshop or GIMP.
