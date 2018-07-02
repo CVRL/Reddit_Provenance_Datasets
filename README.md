@@ -67,7 +67,7 @@ Each graph case has a JSON file that describes its structure. the json format is
         }, 
         {
             "URL": "http://i.imgur.com/N3shRME.jpg", 
-            "comment": "[If you say so!](http://i.imgur.com/N3shRME.jpg)\n\nEdit: Holy shit. My first Reddit gold. Thanks a lot!", 
+            "comment": "[If you say so!](http://i.imgur.com/N3shRME.jpg)\n\nEdit: Holy $%@&. My first Reddit gold. Thanks a lot!", 
             "date": "2016-03-16 16:31:29", 
             "file": "/media/jbrogan4/scratch2/Reddit_Prov_Dataset_v6/_Bored_child_waiting_in_line/g402_d12f0gr.jpg", 
             "fileid": "g402_d12f0gr.jpg", 
