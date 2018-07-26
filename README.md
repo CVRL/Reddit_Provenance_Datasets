@@ -41,7 +41,7 @@ DSET=Datasets/TIP2018/
 python Visualize/GenerateGraphVisuals.py $DSET #Generate interactive HTML files at $DSET/Visuals
 python Visualize/StartVisServer.py $DSET #Start serving images to the javascript graphs
 ```
-
+![Visualization software in use](diffslider.gif?raw=true "Visualize Demo")
 
 DISCLAIMER:
 ***********
