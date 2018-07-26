@@ -57,7 +57,7 @@ def downloadImages(image_urls,image_names,out_dir):
                 raise
 
             except:
-                print ("Error Fetching URL:",each)
+                print ("Error Fetching URL:",each0)
                 imageNameList[each[1]] = (None,None,None)
                 traceback.print_exc()
         count += 1
@@ -78,7 +78,8 @@ def downloadFromJson(gfile,outDir):
         json.dump(jsonGraph,fp)
 def downloadImagesforAllJsons(jsonDir,outDir):
     for f in os.listdir(jsonDir):
-        if os.path.isfile(f) and f.endswith('.json'):
+        file = os.path.join(jsonDir,f)
+        if os.path.isfile(file) and f.endswith('.json'):
             downloadFromJson(os.path.join(jsonDir,f),outDir)
 def usage():
     print('Download a given reddit photoshop battle dataset from reference json files')
