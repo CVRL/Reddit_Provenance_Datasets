@@ -38,9 +38,7 @@ This will build a new folder structure located at the specified location, in whi
 To Visualize the photoshop graph structures using Cytoscape.js (http://js.cytoscape.org/):
 ```
 DSET=Datasets/TIP2018/
-
 python Visualize/GenerateGraphVisuals.py $DSET #Generate interactive HTML files at $DSET/Visuals
-
 python Visualize/StartVisServer.py $DSET #Start serving images to the javascript graphs
 ```
 
